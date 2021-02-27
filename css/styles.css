@@ -65,18 +65,18 @@
 .picture-items-plane {
     position: absolute;
     top: 20%;
-    left: 14.7%;
+    left: 14.5%;
 }
 
 .picture-items-kino {
     position: absolute;
     top: 20%;
-    right: 14.7%;
+    right: 14.5%;
 }
 
 .picture-text-plane {
-    font-family: 'myriadprosemiboldcond';
-    font-size: 37px;
+    font-family: 'Oswald', sans-serif;
+    font-size: 43px;
     text-transform: uppercase;
 
     text-align: center;
@@ -85,8 +85,8 @@
 }
 
 .picture-text-kino {
-    font-family: 'myriadprosemiboldcond';
-    font-size: 37px;
+    font-family: 'Oswald', sans-serif;
+    font-size: 43px;
     text-transform: uppercase;
 
     text-align: center;
