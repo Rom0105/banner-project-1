@@ -1,4 +1,4 @@
-@font-face {
+/* @font-face {
 	font-family: 'aahigherup';
 	src: url('../fonts/8448.eot');
 	src: local('☺'), url('../fonts/8448.woff') format('woff'), url('../fonts/8448.ttf') format('truetype'), url('../fonts/8448.svg') format('svg');
@@ -11,7 +11,7 @@
 	src: local('☺'), url('../fonts/8145.woff') format('woff'), url('../fonts/8145.ttf') format('truetype'), url('../fonts/8145.svg') format('svg');
 	font-weight: normal;
 	font-style: normal;
-}
+} */
 
 
 .picture {
@@ -33,14 +33,15 @@
 
     text-align: center;
 
-    font-family: 'myriadprosemiboldcond';
+    /* font-family: 'myriadprosemiboldcond'; */
+    font-family: 'Oswald', sans-serif;
     font-size: 35px;
     text-transform: uppercase;
     
     color: #dadada;
 
     position: absolute;
-    left: 13%;
+    left: 12%;
     top: 2%;
 }
 
