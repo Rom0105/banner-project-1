@@ -1,0 +1,126 @@
+@font-face {
+	font-family: 'aahigherup';
+	src: url('../fonts/8448.eot');
+	src: local('☺'), url('../fonts/8448.woff') format('woff'), url('../fonts/8448.ttf') format('truetype'), url('../fonts/8448.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'myriadprosemiboldcond';
+	src: url('../fonts/8145.eot');
+	src: local('☺'), url('../fonts/8145.woff') format('woff'), url('../fonts/8145.ttf') format('truetype'), url('../fonts/8145.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+.picture {
+    width: 1920px;
+    height: 1090px;
+    
+    background-image: url(../img/background.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+
+    left: 3%;
+}
+
+.foto {
+    opacity: 0.5;
+}
+
+.picture-subject {
+    width: 400px;
+
+    text-align: center;
+
+    font-family: 'myriadprosemiboldcond';
+    font-size: 35px;
+    text-transform: uppercase;
+    
+    color: #dadada;
+
+    position: absolute;
+    left: 8%;
+    top: 2%;
+}
+
+.picture-imeg {
+    position: absolute;
+    left: 34%;
+    
+}
+
+.picture-left {
+    position: absolute;
+    right: 20%;
+    top: 1%;
+}
+.picture-right {
+    position: absolute;
+    right: 7%;
+    top: 2%;
+}
+
+.picture-items-plane {
+    position: absolute;
+    top: 20%;
+    left: 15%;
+}
+
+.picture-items-kino {
+    position: absolute;
+    top: 20%;
+    right: 15%;
+}
+
+.picture-text-plane {
+    font-family: 'myriadprosemiboldcond';
+    font-size: 30px;
+    text-transform: uppercase;
+
+    text-align: center;
+    
+    color: #dadada;
+}
+
+.picture-text-kino {
+    font-family: 'myriadprosemiboldcond';
+    font-size: 30px;
+    text-transform: uppercase;
+
+    text-align: center;
+    
+    color: #dadada;
+}
+
+.picture-bottom-left {
+    position: absolute;
+    top: 60%;
+    left: 15%;
+}
+
+.picture-bottom-right {
+    position: absolute;
+    top: 60%;
+    right: 15%;
+}
+
+.picture-text {
+    font-family: 'myriadprosemiboldcond';
+    font-size: 20px;
+    text-transform: uppercase;
+    
+    color: #dadada;
+}
+
+
+
+
+
+
+
+
+
