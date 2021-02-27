@@ -27,9 +27,6 @@
     left: 3%;
 }
 
-/* .foto {
-    opacity: 0.5;
-} */
 
 .picture-subject {
     width: 400px;
@@ -43,7 +40,7 @@
     color: #dadada;
 
     position: absolute;
-    left: 8%;
+    left: 13%;
     top: 2%;
 }
 
@@ -55,30 +52,30 @@
 
 .picture-left {
     position: absolute;
-    right: 20%;
+    right: 22%;
     top: 1%;
 }
 .picture-right {
     position: absolute;
-    right: 7%;
+    right: 13%;
     top: 2%;
 }
 
 .picture-items-plane {
     position: absolute;
     top: 20%;
-    left: 15%;
+    left: 14.7%;
 }
 
 .picture-items-kino {
     position: absolute;
     top: 20%;
-    right: 15%;
+    right: 14.7%;
 }
 
 .picture-text-plane {
     font-family: 'myriadprosemiboldcond';
-    font-size: 30px;
+    font-size: 37px;
     text-transform: uppercase;
 
     text-align: center;
@@ -88,7 +85,7 @@
 
 .picture-text-kino {
     font-family: 'myriadprosemiboldcond';
-    font-size: 30px;
+    font-size: 37px;
     text-transform: uppercase;
 
     text-align: center;
