@@ -11,6 +11,10 @@
     left: 3%;
 }
 
+.link {
+    display: block;
+}
+
 .picture-subject {
     width: 400px;
 
